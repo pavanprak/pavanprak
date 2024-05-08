@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pavanprak
-- 👀 I’m interested in Data analitics 
+- 👀 I’m interested in Quant Finance
 - 🌱 I’m currently learning Python, R, SQL,PowerBI and excel 
-- 💞️ I’m looking to collaborate on Python and R
 - 📫 How to reach me at my instagram @pavan__prak
 
 <!---
